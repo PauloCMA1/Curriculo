@@ -1,0 +1,29 @@
+body {
+    background: #003c96 url('a/fundo.jpg');
+    font: 16px Arial, sans-serif;
+}
+.img-avatar{
+    width: 380px;
+    text-align: center;
+}
+#menu{
+    background: #f3efef;
+    padding: 20px;
+    width: 1010px;
+    
+}
+#principal{
+    width: 900px;
+}
+.img-capa{
+    width: 1050px;
+}
+#fundo{
+    background: #f3efef;
+    padding: 10px;
+    width: 370px;
+
+}
+.centralizar{
+    text-align: center;
+}
